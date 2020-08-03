@@ -1,4 +1,5 @@
-CONNEKT is a collaborative interest app which enables a set of people to build a knowledge repository on a specific topic or point of interest to share common interests and plan activities.
+## CONNEKT 
+It is a collaborative interest app which enables a set of people to build a knowledge repository on a specific topic or point of interest to share common interests and plan activities.
 
 ## App Features
 
